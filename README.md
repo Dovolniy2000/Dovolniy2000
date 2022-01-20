@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dovolniy2000
-- 👀 I’m interested in 'IOS' app development
+- 👀 I’m interested in 'IOS' app development for APPLE 
 - 🌱 I’m I'm currently learning a programming language swift
-- 💞️ I’m looking to collaborate on the development 'IOS' apps
+- 💞️ I’m looking to collaborate on the development 'IOS' apps for APPLE
 - 📫 How to reach me: "telegram" - @blacked100
 
 <!---
